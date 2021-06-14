@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T11:12:01.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="2mY5lPPluRyR4yfbB2IJ" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T12:30:55.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OSQXK01k33w_DZoqEzGh" version="14.7.2" type="github" pages="2">
   <diagram id="hA1sp-DxIH5g-bwAQe9q" name="Page-1">
     <mxGraphModel dx="2125" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,6 +82,119 @@
         </mxCell>
         <mxCell id="8eiHBntBhr2UdLw32bqL-33" value="微信模板授权记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="590" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="23ZTgZcmTEcr4dEFcHjW" name="Page-2">
+    <mxGraphModel dx="2125" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BQ5nMsw5islI22WroEEa-0" />
+        <mxCell id="BQ5nMsw5islI22WroEEa-1" parent="BQ5nMsw5islI22WroEEa-0" />
+        <mxCell id="BQ5nMsw5islI22WroEEa-2" value="CDP" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-800" y="160" width="60" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-3" value="&amp;nbsp; &amp;nbsp;触达配置" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-720" y="320" width="750" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-4" value="&amp;nbsp; &amp;nbsp;触达需求" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-720" y="160" width="750" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-5" value="&amp;nbsp; &amp;nbsp;拦截机制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-720" y="240" width="750" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-6" value="消息记录" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="60" y="160" width="60" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-7" value="疲劳度控制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-650" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-8" value="订阅关系" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-520" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-9" value="延迟发放&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%A2%E9%98%85%E5%85%B3%E7%B3%BB%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-520%22%20y%3D%22250%22%20width%3D%22110%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-390" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-10" value="风控" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-260" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-11" value="限流" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-130" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-13" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-10" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-14" value="AB 测试、报表（触达目标）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-720" y="570" width="750" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-15" value="触达渠道&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-650" y="340" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-16" value="短信" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-635" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-17" value="微信" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-635" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-18" value="邮件&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BE%AE%E4%BF%A1%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BfillColor%3D%23f5f5f5%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-530%22%20y%3D%22420%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-635" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-19" value="站内信" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-635" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-23" value="消息内容&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-520" y="340" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-24" value="消息模板" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-505" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-25" value="短信签名" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-505" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-26" value="消息主题" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-505" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-27" value="发送目标&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-390" y="340" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-28" value="用户层级" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-375" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-29" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-375" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-30" value="场景触发用户" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-375" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-31" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-260" y="340" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-32" value="事件触发&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%A8%E6%88%B7%E5%B1%82%E7%BA%A7%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BfillColor%3D%23f5f5f5%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-375%22%20y%3D%22380%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-245" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;触达场景&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;运营活动定时触发&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-245" y="427.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-35" value="触达控制&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-130" y="340" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-36" value="频率控制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-115" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-37" value="时间控制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-115" y="410" width="80" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-38" value="用户运营&lt;br&gt;（沉睡用户唤醒，流式用户召回...）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-650" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-39" value="场景化营销&lt;br&gt;（用户查看商品时推送优惠信息.）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-420" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-40" value="客户交互&lt;br&gt;（用户注册成功后发送站内信.）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-190" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ5nMsw5islI22WroEEa-41" value="优先级控制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="BQ5nMsw5islI22WroEEa-1">
+          <mxGeometry x="-115" y="442.5" width="80" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
